@@ -70,9 +70,9 @@ h2{
 
 }
 div{
-	transition:all 3s;
-	-webkit-transition-delay: 2s; /* Safari */
-    transition-delay: 2s;
+	transition:all 5s;
+	-webkit-transition-delay: 4s; /* Safari */
+    transition-delay: 3s;
 	
 }
 
