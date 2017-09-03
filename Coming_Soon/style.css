@@ -29,7 +29,7 @@ html,body{
     max-width:30%;
     z-index: 2;
     position:relative;
-    top: 80px;
+    top: 900px;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
 	margin-bottom:50px;
