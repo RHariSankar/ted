@@ -59,7 +59,7 @@ h2{
 div{
 	-webkit-transition-delay: 2s; /* Safari */
     transition-delay: 2s;
-
+}
 
 .fade-in{
 	animation: fadeIn 10s;
