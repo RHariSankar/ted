@@ -21,7 +21,7 @@ html,body{
     max-width:100%;
     z-index: 2;
     position: absolute;
-    top: 50%;
+    top: 52%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
 }
@@ -31,7 +31,7 @@ h2{
 	color:white;
 	position:relative;
 	bottom:50%;
-	
+
 }
 
 
@@ -39,12 +39,12 @@ h2{
 	height:100%;
     width:100%;
     margin:auto;
-    
+
    background-color:black;
    display: table;
    background-size: cover;
 
-    
+
 }
 .intro .inner{
 	display:table-cell;
@@ -63,7 +63,7 @@ div{
 	transition:all 5s;
 	-webkit-transition-delay: 4s; /* Safari */
     transition-delay: 3s;
-	
+
 }
 
 .fade-in{
@@ -102,7 +102,7 @@ animation: zoomIn 5s;}
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
-	
+
 	}
 	to{
 	 max-height: 100%;
@@ -125,5 +125,5 @@ animation: zoomIn 5s;}
 
 }
 @media screen and (max-width: 480px) {
-	
+
 }
