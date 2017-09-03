@@ -25,17 +25,7 @@ html,body{
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
 }
-.image3{
-	max-height: 20%;
-    max-width:30%;
-    z-index: 3;
-    position:relative;
-    top: 60%;
-    left: 50%;
-    transform: translateX(-50%) translateY(-50%);
-	margin-bottom:50px;
-	
-}
+
 h2{
 	z-index:2;
 	color:white;
@@ -100,6 +90,30 @@ div{
 	to {
 		opacity: 0;
 	}
+}
+.zoom-in{
+animation: zoomIn 5s;}
+@keyframes zoomIn{
+	from{
+		 max-height: 0%;
+    max-width:100%;
+    z-index: 1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+	
+	}
+	to{
+	 max-height: 100%;
+    max-width:100%;
+    z-index: 1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);}
+
+
 }
 
 
