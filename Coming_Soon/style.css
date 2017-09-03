@@ -27,9 +27,9 @@ html,body{
 .image3{
 	max-height: 20%;
     max-width:30%;
-    z-index: 2;
+    z-index: 3;
     position:relative;
-    top: 900px;
+    top: 60%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
 	margin-bottom:50px;
