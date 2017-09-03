@@ -27,7 +27,7 @@ html,body{
 h2{
 	z-index:2;
 	color:white;
-	position:absolute;
+	position:relative;
 	bottom:50%;
 	transform: translateX(-50%) translateY(-50%);
 }
