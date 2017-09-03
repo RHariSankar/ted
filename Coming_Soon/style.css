@@ -57,8 +57,8 @@ h2{
 
 }
 div{
-	transition: all 3s;
-}
+	-webkit-transition-delay: 2s; /* Safari */
+    transition-delay: 2s;
 
 
 .fade-in{
