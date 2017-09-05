@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed+Thin|Raleway|Montserrat');
+
+#ecyHead{
+  text-align: center;
+  font-family: "Montserrat",sans-serif;
+  font-size: 100px;
+  color:white;
+  letter-spacing: 15px;
+  padding-top: 20%;
+}
+
+.X{
+  float: left;
+
+}
